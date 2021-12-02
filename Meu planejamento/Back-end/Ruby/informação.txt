@@ -1,0 +1,3 @@
+Em Ruby, tudo é um objeto. Cada parcela de informação e código podem receber as suas próprias propriedades e ações. A Programação orientada a objetos denomina as propriedades como variáveis de instância e as ações como métodos. A aproximação pura, da orientação aos objetos do Ruby, é geralmente demonstrada pelo seguinte trecho de código que aplica uma ação a um número.
+O Ruby é visto como uma linguagem flexível, uma vez que permite aos seus utilizadores alterar partes da linguagem. Partes essenciais do Ruby podem ser removidas ou redefinidas à vontade. Partes existentes podem ser acrescentadas. O Ruby tenta não restringir o programador.
+
